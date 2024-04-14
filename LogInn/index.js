@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
             if (storedUser && storedUser.email === emailInput.value && storedUser.password === passwordInput.value) {
                 alert("Login successful!");
-                window.location.href = "/Web_Co_Hanh/fruitkha-1.0.0/index.html";
+                window.location.href = "/Web_Co_Hanhh/fruitkha-1.0.0/index.html";
             } else {
                 alert("Invalid email or password!");
             }
